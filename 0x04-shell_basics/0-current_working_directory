@@ -1,4 +1,3 @@
 #!/bin/bash
-$ ./pwd
-/Users/Lenovo/Desktop/holbertonschool-tools/0x04-shell_basics
-$
+$ pwd
+/c/Users/Lenovo/Desktop/holbertonschool-tools/0x04-shell_basics
