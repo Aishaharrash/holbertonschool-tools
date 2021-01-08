@@ -1,1 +1,0 @@
-get introducted to the shell script
