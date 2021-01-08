@@ -1,1 +1,1 @@
-get introducted to the shell basics
+pwd script prints the path of the current directory.
