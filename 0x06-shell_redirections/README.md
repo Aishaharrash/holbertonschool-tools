@@ -1,0 +1,1 @@
+Getting introduced to the I/O redirections
